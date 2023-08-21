@@ -19,7 +19,7 @@ class PageHome extends React.Component {
 
 				<div style={{"width":"100%", "display":"flex"}}>
 					<div style={{"width":"calc(100% / 3"}}>
-						<Titulo entidad="venta" emoji="📖" />
+						<Titulo entidad="venta" emoji="👍" />
 						<VentaList generos={this.state.ventas} />
 						<Link to="/nuevo-venta">Nueva Venta</Link>
 					</div>
