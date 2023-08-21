@@ -7,10 +7,10 @@ const PageHome = require('./pages/home');
 
 
 
-const PageVerGenero = require('./pages/ver-genero');
-const PageNuevoLisAuto = require ('./pages/nuevo-liauto');
-const PageEditarGenero = require('./pages/editar-genero');
-const PageNuevoGenero = require ('./pages/nuevo-genero')
+const PageVerGenero = require('./pages/ver-venta');
+const PageNuevoLisAuto = require ('./pages/nuevo-ventadetalle');
+const PageEditarGenero = require('./pages/editar-venta');
+const PageNuevoGenero = require ('./pages/nuevo-venta');
 
 
 
